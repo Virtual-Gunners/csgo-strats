@@ -24,10 +24,6 @@ Note: Its better not to smoke deep connector because in mm we need to play fast.
 
 
 
-
-
-
-
 Purpose ==> Taking A site gun round (1 palace and 4 A main) [Fast play as soon as the A main smoke fades]
 Utilities needed ==> 2 molly, 3 smokes, and 5 flashes.
 Description ==> 
@@ -52,8 +48,6 @@ Description ==>
 	vanc3d smokes left arch and molly close right of apps and evol will molly van. And rush. 9k will smoke market and flash twice. At this point the entire team will explode from B apps.
 	Do check jail, back site and ninja..
 	
-
-
 
 
 Purpose ==> Taking B site #2 B split.
