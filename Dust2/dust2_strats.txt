@@ -4,7 +4,7 @@ Map
 	De_dust2
 
 Players needed 
-	3 + 2 (vanced, 9klips, evol, player 4 and player 5)
+	3 + 2 (vanced, 9klips, evol, player 4 and player5)
 
 Purpose 
 	 Taking a site control from mid and cat walk.
