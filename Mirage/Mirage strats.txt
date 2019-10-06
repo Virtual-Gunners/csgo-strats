@@ -1,15 +1,15 @@
 							9kLips
 
-*Map ==> Mirage
-*Players needed ==> 5 (But 9k, vanc3d and Evol will do some complex stuffs and coordinated plays. Other 2 random guys can do those 
+* Map ==> Mirage
+* Players needed ==> 5 (But 9k, vanc3d and Evol will do some complex stuffs and coordinated plays. Other 2 random guys can do those 
 other basic stuffs)
 
 
 
 				Purpose ==> Pistol round strat. B split.
 				¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-**Utilities needed ==> 2 flashes and 1 smoke
-***Description ==> 
+** Utilities needed ==> 2 flashes and 1 smoke
+*** Description ==> 
 	Do a B split in pistol round. 2 guys will go from B short and 3 guys go from B apps and the apps guy gonna make first contact 
 with CTs.
 Either vanc3d or Evol gonna buy 1 flashes and 1 smoke and buy a p250 and drop to the other one. And smokes connector from T spawn and 
@@ -21,8 +21,8 @@ site ninja.
 
 				Purpose ==> Taking A site gun round (A split)
 				¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-**Utilities needed ==> 1 molly, 4 smokes, 6 flashes
-***Description ==> 
+** Utilities needed ==> 1 molly, 4 smokes, 6 flashes
+*** Description ==> 
 	1 rifler goes palace[player4] holds any CT push. He will push when the igl calls to push. This guy can molly underpalace and 
 watches any CT pushing from jungle smoke and clears default site.
 	2 guys goes A main [9k and player5]. Both of them hold close A main and watch if any CT tries to push A main throught the smoke. 
@@ -40,8 +40,8 @@ connector smoke to fade. So, its better to not smoke connector and flash out con
 
 				Purpose ==> Taking A site gun round (1 palace and 4 A main) [Fast play as soon as the A main smoke fades][We also gonna do this if we win the first 2 rounds and we have smgs in the 3rd round.]
 				¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-**Utilities needed ==> 2 molly, 3 smokes, and 5 flashes.
-***Description ==> 
+** Utilities needed ==> 2 molly, 3 smokes, and 5 flashes.
+*** Description ==> 
 1 awper[vanc3d] goes palace flashes out balcony and molly under palace and he just need to clear default site area and then holds for 
 any CT pushing from jungle smoke. And maybe he can resmoke CT or jungle later after plant. This guy just need to stay back in palace 
 with the awp. And play after plant. Or only peeks for possible trades. vanc3d can also clear firebox if possible or calls for teammates 
@@ -54,8 +54,8 @@ play close a main to stop any CT pushing. 9k will molly tripple or default site.
 
 				Purpose ==> Taking mid control gun round and push B short or Connector as the game goes.
 				¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-**Utilities needed ==> At least 2 smokes, 2 flashes.
-***Description ==>
+** Utilities needed ==> At least 2 smokes, 2 flashes.
+*** Description ==>
 	1 guy[player4] holds both A main and palace push from entrance of palace. And according to where the team is pushing either A or 
 B this guy can flank from A main.
 	2 guys [9k and vanc3d] goes top mid and according to situation smokes window + connector and goes B short. Or, smokes window + B 
@@ -68,8 +68,8 @@ vanc3d at mid.
 
 				Purpose ==> Taking B site #1 All 5 players comes from apps. Fast play.
 				¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-**Utilities needed ==> 2 molly, 2 smokes and 2 flashes.
-***Description ==>
+** Utilities needed ==> 2 molly, 2 smokes and 2 flashes.
+*** Description ==>
 	1 guy [vanc3d] holds A push from end of T spawn[from the stairs of T swpan] with the awp(or any weapon). And evol watches top 
 mid push from apps entrance. And one guy watches underpass push. Hold until the CT B apps smokes fades. Then both evol and vanc3d 
 regroups with team in apps.
@@ -81,8 +81,8 @@ At this point the entire team will explode from B apps.
 
 				Purpose ==> Taking B site #2 B split.
 				¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-**Utilities needed ==> 3 smokes, 4 flashes, 2 molly.
-***Description ==>
+** Utilities needed ==> 3 smokes, 4 flashes, 2 molly.
+*** Description ==>
 	2 guys [evol and vanc3d] smokes connector and mid window and who ever is forward goes b short and other guy behind him pop 
 flashes him b short.
 And evol and vanc3d will clear back site and hold for market push. 9k smokes market window and flashes twice and molly close right and 
@@ -93,8 +93,8 @@ Don't forget to check jail, b site ninja.
 
 				Purpose ==> T side 2nd round if we win the pistol round. Fast B execute
 				¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-Utilities needed ==> 1 smoke and 2 flashes.
-Description ==>
+** Utilities needed ==> 1 smoke and 2 flashes.
+*** Description ==>
 	If you have enough money to buy Ak+helmet then buy it ($3700 or more). Smoke window of market and flash twice from aps and push 
 B from aps all 5. As the CTs mostly gonna push A or stack A or they can push mid. Do care underpass. And execute this round as fast as 
 possible. Its mostly gonna be anti-eco.
@@ -103,8 +103,8 @@ possible. Its mostly gonna be anti-eco.
 
 				Purpose ==> T side 2nd round if we loss the pistol round. Fast B execute.
 				¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-Utilities needed ==> 1 smoke and 2 flashes.
-Description ==>
+** Utilities needed ==> 1 smoke and 2 flashes.
+*** Description ==>
 	On pistol round either Evol or vanc3d is buying (smoke, flash and drops a p250). And we lost the pistol round then all 4 of us 
 gonna have exactly 2050 enough for (mac10+helmet) but 1 who buys utility in pistol round gonna have 1900 then he needs to buy 
 (tec9+kevlar vest+1smoke and 2 flashes) in 2nd round. We are forcing because the CTs economy is not great either. And if we get a bomb 
@@ -115,8 +115,8 @@ down on pistol round all of us gonna have smgs.
 
 				Purpose ==> Eco round. Hitting B
 				¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-Utilities needed ==> 2 smokes and 2 flashes.
-Description ==> 
+** Utilities needed ==> 2 smokes and 2 flashes.
+*** Description ==> 
 	3 guys buy p250 and 9k and [vanc3d/evol] will buy 2 smokes and 2 flashes. 1 smoke is to extinguish the molly in apps and 9k will 
 throw a  quick plant smoke in site. Throw two flashes and push together to B site.
 
@@ -124,8 +124,8 @@ throw a  quick plant smoke in site. Throw two flashes and push together to B sit
 
 				Purpose ==> Eco round. Hitting A
 				¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-Utilities needed ==> 1 smoke and 1 flash.
-Description ==> 
+** Utilities needed ==> 1 smoke and 1 flash.
+*** Description ==> 
 	2 guys go palace[player4 and player5]. 9k will throw a flash and a quick plant smoke from A main. Evol and vanc3d comes from 
 connector from underpass [you guys need to watch each others backs]. 
 
@@ -133,8 +133,8 @@ connector from underpass [you guys need to watch each others backs].
 
 				Purpose ==> Double eco round. (When we loose pistol round and 2nd force buy round. Really unlikely to happen.)
 				¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-**Utilities needed ==> 1 smoke and 5 flash.
-***Description ==> 
+** Utilities needed ==> 1 smoke and 5 flash.
+*** Description ==> 
 	We mostly gonna have around $1400. 4 guys  buy [kevlar+tec9+1 flash]. And 1 guy will buy [kevlar+p250+smoke+flash]. Smoke the 
 molly if needed. Push B aps.
 
