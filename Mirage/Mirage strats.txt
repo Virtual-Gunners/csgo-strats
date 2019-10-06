@@ -38,7 +38,7 @@ connector smoke to fade. So, its better to not smoke connector and flash out con
 
 
 
-				Purpose ==> Taking A site gun round (1 palace and 4 A main) [Fast play as soon as the A main smoke fades][We also gonna do this if we win the first 2 rounds and we have smgs in the 3rd round.]
+				Purpose ==> Taking A site gun round (1 palace and 4 A main) [Fast play as soon as the A main smoke fades]
 				¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ** Utilities needed ==> 2 molly, 3 smokes, and 5 flashes.
 *** Description ==> 
@@ -49,6 +49,7 @@ if there is any CT in firebox. If somehow the player4 or player5 don’t know ho
 can smoke it from palace.
 4 guys will play A main. Evol does the jungle smoke, 9k will do the ct smoke and player4 will do the stairs smoke. And the player5 will 
 play close a main to stop any CT pushing. 9k will molly tripple or default site. Flash out and go in and take site.
+[We also gonna do this if we win the first 2 rounds and we have smgs in the 3rd round.]
 
 
 
