@@ -133,8 +133,8 @@ connector from underpass [you guys need to watch each others backs].
 
 				Purpose ==> Double eco round. (When we loose pistol round and 2nd force buy round. Really unlikely to happen.)
 				¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-Utilities needed ==> 1 smoke and 5 flash.
-Description ==> 
+**Utilities needed ==> 1 smoke and 5 flash.
+***Description ==> 
 	We mostly gonna have around $1400. 4 guys  buy [kevlar+tec9+1 flash]. And 1 guy will buy [kevlar+p250+smoke+flash]. Smoke the 
 molly if needed. Push B aps.
 
@@ -147,8 +147,9 @@ molly if needed. Push B aps.
 						¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 						--:CT SIDE TIPS:--
 						¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-Sometimes push palace in the beginning of the round and the stairs guy will flash palace for him. To take down the awper.
-On weak buy rounds. ! guy can push top mid and the window guy will flash top mid for him.
-On eco rounds CT side we can push all 5 mid with HE grenades. Or we can stack B or push A main with flashes.(Depends how the Ts plays.)
-Smoke top mid from CT spawn and 2 guys will take top mid control.
-We can sometimes boost an awper from bench to watch aps with the awp the other guy will watch short.
+*** Sometimes push palace in the beginning of the round and the stairs guy will flash palace for him. To take down the awper.
+*** On weak buy rounds. ! guy can push top mid and the window guy will flash top mid for him.
+*** On eco rounds CT side we can push all 5 mid with HE grenades. Or we can stack B or push A main with flashes.(Depends how the Ts 
+    plays.)
+*** Smoke top mid from CT spawn and 2 guys will take top mid control.
+*** We can sometimes boost an awper from bench to watch aps with the awp the other guy will watch short.
