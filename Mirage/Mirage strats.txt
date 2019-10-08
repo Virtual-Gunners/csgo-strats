@@ -26,13 +26,14 @@ site ninja.
 	1 rifler goes palace[player4] holds any CT push. He will push when the igl calls to push. This guy can molly underpalace and 
 watches any CT pushing from jungle smoke and clears default site.
 	2 guys goes A main [9k and player5]. Both of them hold close A main and watch if any CT tries to push A main throught the smoke. 
-They don't need to show their presence in A main to the stairs or jungle CT guys. These 2 players [9k and player5] throws CT and deep 
-jungle smokes. Throw flashes over A site and push. If the palace guy didn't molly then 9k will molly underpalace.
+They don't need to show their presence in A main to the stairs or jungle CT guys. These 9kthrows CT smokes. Throw flashes over A site 
+and push. If the palace guy didn't molly then 9k will molly underpalace.
 	Evol goes underpass from apps. Smokes B short from underpass and flashes short from underpass and pushes to connector. With the 
-help of a pop flash from top mid guy [vanc3d]. Optional: Can throw some utility to window.
-	Vanc3d will go top mid with the awp. And watches connector or anyone pushing top mid with defensive position. Then he pop 
-flashes the underpass guy [evol] to peek connector and take control of it. Mean while vanc3d watches window or b short push. And in the 
-end vanc3d joins evol in connector. 
+help of a pop flash from top mid guy [vanc3d].
+	Vanc3d will go top mid with the awp. And watches connector or anyone pushing top mid with defensive position. He need to smoke 
+top CT from top mid when we start executing. Then he pop flashes the underpass guy [evol] to peek connector and take control of it. Mean 
+while vanc3d watches window or b short push. And in the end vanc3d joins evol in connector. Optional: Vanc3d can throw some utility
+(a molly) to window.
 Note: Its better not to smoke deep connector because in mm we need to play fast. Those 2 other random guy will not wait for that 
 connector smoke to fade. So, its better to not smoke connector and flash out connector and go in.
 
@@ -75,7 +76,7 @@ vanc3d at mid.
 mid push from apps entrance. And one guy watches underpass push. Hold until the CT B apps smokes fades. Then both evol and vanc3d 
 regroups with team in apps.
 	vanc3d smokes left arch and molly close right of apps and evol will molly van. And rush. 9k will smoke market and flash twice. 
-At this point the entire team will explode from B apps.
+At this point the entire team will explode from B apps. Do molly backsite[Its necessary to throw on the fly molly to back site.]
 	Do check jail, back site and ninja..
 	
 
@@ -136,8 +137,8 @@ connector from underpass [you guys need to watch each others backs].
 				¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ** Utilities needed ==> 1 smoke and 5 flash.
 *** Description ==> 
-	We mostly gonna have around $1400. 4 guys  buy [kevlar+tec9+1 flash]. And 1 guy will buy [kevlar+p250+smoke+flash]. Smoke the 
-molly if needed. Push B aps.
+	We mostly gonna have around $1400. 3 guys  buy [kevlar+tec9+1 flash]. And 2 guy will buy [kevlar+p250+smoke+flash]. Smoke the 
+molly if needed. And smoke left arch. Push B aps.
 
 
 
@@ -149,7 +150,7 @@ molly if needed. Push B aps.
 						--:CT SIDE TIPS:--
 						¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 *** Sometimes push palace in the beginning of the round and the stairs guy will flash palace for him. To take down the awper.
-*** On weak buy rounds. ! guy can push top mid and the window guy will flash top mid for him.
+*** On weak buy rounds. 1 guy can push top mid and the window guy will flash top mid for him.
 *** On eco rounds CT side we can push all 5 mid with HE grenades. Or we can stack B or push A main with flashes.(Depends how the Ts 
     plays.)
 *** Smoke top mid from CT spawn and 2 guys will take top mid control.
