@@ -1,0 +1,65 @@
+VANC3D
+
+
+Map ==> DE_INFERNO
+
+
+Players needed ==> 1.VANC3D		2.Evol 		3.9k
+			Now on referred as numbers… 
+			
+Purpose ==> {Purpose of the strat ex- taking map control, rushing a site}
+
+Utilities needed ==> {List of utilities needed to execute the strat ex-
+ smoke1 - player1 will smoke windows
+ smoke2 - player2 will smoke connector
+ flash1 & flash2 - player3 will smoke flash connector}
+
+Description ==> {detailed description of the strat}
+
+
+Red- 		Smokes
+Yellow-	Molly
+Green- 		Flashes
+1. Purposes ==> B site take
+ 
+
+Utilities needed ==> 
+1 will smoke coffins and molly new boxes
+2 will smoke ct and boost 3 on half wall
+3 will molly dark and provide flash support
+
+Description ==> 
+Take banana control in the start
+Make a default round and gather in banana at 1 minute
+Setup with smokes and molly
+3 will entry and run to hobbit and check oranges
+2 will jump up on boxes to check ct and smoke push
+1 will hold dark or coffin and smoke push
+2 will hold on to his molly for after plant and 3 will have a smoke
+3 will try to re-smoke wherever necessary.
+
+2. Purposes ==> B site take(Coffin Wrap)
+ 
+Utilities needed ==>
+1 will smoke deep ct and molly 1st orange
+2 and 3 will make a smoke wall on site and 2 will molly 2nd orange
+3 will hold the molly for after plant.
+ 
+
+Description ==>
+Take banana control in the start
+Make a default round and gather in banana at 1 minute
+Setup with smokes and molly
+Option 1-
+As soon as the molly lands 2 and 3 will rush coffins from ct and wrap to site.
+1 (*stay antiflash) will hold smoke push and help with flash
+
+Option 2-
+Get a plant in smokes and fall back.
+
+Option 3-
+3 will run to coffins through ct
+2 will climb on boxes to take site
+1(*stay antiflash) will help with the flash and hold smoke push
+
+Hold afterplant.
