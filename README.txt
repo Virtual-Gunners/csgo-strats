@@ -1,1 +1,1 @@
-#csgo strats of virtual gunners.
+#CS: GO strats of Team Virtual Gunners.
