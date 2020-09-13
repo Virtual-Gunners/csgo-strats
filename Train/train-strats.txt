@@ -1,0 +1,27 @@
+EV0L
+
+Map
+	de_train
+
+Players needed
+	3 + 2 (player1, player2, player3, player4, player5)
+
+Purpose
+	Basic A site execute.
+
+Utilities needed
+	3+1 smokes, some flashes flashes, 2+1 mollies
+	1 right side bomb train smoke.
+	1 left site bomb train smoke.
+	1 sandwich smoke.
+	1 bomb train molly(this can be altered with 2 nades)
+	1 back site/camera molly
+	Flashes while going out.
+
+Description
+	=> First we will do the smokes
+	=> While one player flashes. 2 player will be throwing out mollies.
+	=> All the flashes will be thrown above the t main entrance so that teammates won't get flashed.
+	=> After going out one player will plant, one watch smoke pushes. one watches pop dog and one watches sandwich/olof push.
+
+Note:- This is a really brief basic execute. Adding more ideas or tweaking for betterment of this strat will be encouraged
