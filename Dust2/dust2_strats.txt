@@ -63,7 +63,32 @@ Description
 
 *************************************************************************************
 
+Map
+	De_dust2
 
+
+Players needed
+	2 + 1 (vanced, 9klips, evol, player 4 and player 5)
+
+Purpose
+	Taking B site control from upper tunnel
+
+
+Utilities needed
+	2 + 1 smokes, 2 + 2 flash, 1 + 1 molly
+	1 lurk smoke outside of upper tunnel.
+	1 used to smoke b doors after getting site control.
+	1 flash to the left of b site(outside ut)
+	1 flash to the middle of b site(outside ut)
+	2 flash after plant situations
+	1 molly for back side of platform
+
+Description
+	=> This strat looks pretty straight forward.
+	=> We get into UT and wait for enemies smokes and mollies to fade away and mid push by ct to lt
+	=> One will throw lurk smoke and then molly to back of site and back of platform.
+	=> Flashes will be thrown out in such a way that no one will get blinded on our side.
+	=> And we bust into b site and take site.
 
 
 
